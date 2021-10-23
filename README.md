@@ -1,0 +1,1 @@
+# Accupedo-vs.-Fitbit-Part-2-Convergent-Validity-of-Cumulative-Step-Counts-with-R
